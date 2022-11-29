@@ -2,4 +2,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman10scorpio&count_private=true&show_icons=true)](https://github.com/usman10scorpio/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usman10scorpio&layout=compact)](https://github.com/usman10scorpio/github-readme-stats)
 
